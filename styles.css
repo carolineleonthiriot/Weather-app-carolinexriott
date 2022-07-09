@@ -1,28 +1,28 @@
 body {
   text-align: center;
-  border: 3px solid;
+  border: 0px solid;
   border-color: purple;
   border-style: groove;
-  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Tahoma, Verdana, sans-serif;
   padding: 15px;
   margin: 200px;
   border-radius: 50px 50px;
-  background-color: pink;
+  background-color: rgb(183, 221, 250);
 }
 
 h1 {
-  color: purple;
-  font-size: 30px;
+  color: rgb(0, 15, 128);
+  font-size: 25px;
   margin-bottom: none;
 }
 
 h2 {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 12px;
 }
 h3 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 15px;
 }
 ul {
   margin: 0;
@@ -43,7 +43,7 @@ p {
   font-weight: 100;
 }
 .box {
-  background-color: rgb(243, 117, 236);
+  background-color: rgb(214, 196, 213);
   opacity: 0.7;
   padding: 30px;
   margin: auto;
@@ -52,7 +52,6 @@ p {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
   border-radius: 5px;
 }
 
@@ -90,7 +89,7 @@ p {
   border-radius: 5px;
 }
 .grid-container > div {
-  background-color: pink;
+  background-color: rgb(145, 209, 251);
   text-align: center;
   padding: none;
   font-size: 16px;
